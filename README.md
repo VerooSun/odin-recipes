@@ -4,3 +4,4 @@ This project is about making a simple recipes web page using HTML commands that 
 - boilerplate
 - lists
 - anchoring links
+- inserting images
